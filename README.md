@@ -3,7 +3,7 @@
 Spotify is a digital music, podcast, and video streaming service that offers access to millions of songs and other content from creators worldwide.
 ## Purpose of dashboard
 This dashboard provides a comprehensive analysis of a user's Spotify listening behavior across platforms, days, and times. It highlights correlations between listening hours, top artists and albums popularity, track repetition, and platform usage to understand user preferences.
-![image alt]() 
+![image alt](https://github.com/AMIRAHAIFA1/Spotify-Power-BI-dashboard/blob/main/Screenshot_dashboard.png) 
 ## Key questions
 - Monitor listening patterns for user and streaming platforms.
 - Provide insights into user engagement with albums, artists and tracks over time.
